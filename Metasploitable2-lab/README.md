@@ -4,10 +4,9 @@
 This lab was conducted in an isolated, legal envvironment on intentionally vulnerable software for educational purposes only.
 
 ## Environment
-### |   Machine      |    OS      |    Role     |
-   
-   |Kali Linux 2018 |   Debian   |   Attacker  |
-   |Metasploitable2 |   Ubuntu   |   Target    |
+###    Machine             OS          Role
+     Kali Linux 2018      Debian     Attacker
+     Metasplotable 2      Ubuntu     Target
 
 ## Tools Used
 - Nmap
