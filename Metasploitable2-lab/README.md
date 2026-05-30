@@ -14,6 +14,9 @@ This lab was conducted in an isolated, legal envvironment on intentionally vulne
 
 ![metasploit](https://github.com/hemanthyadla/2020-Archive/blob/afb1f26aa5d747b4b863c0dbe2ff10395097dcb5/Metasploitable2-lab/Screenshots/Screenshot%20from%202026-05-21%2011-09-37.png)
 
+# Target Machine IP address
+![TargetmachineIPAddress](https://github.com/hemanthyadla/2020-Archive/blob/0b2f0f19f17041ac8e4672a6af87e2365dfdccc0/Metasploitable2-lab/Screenshots/Screenshot%20from%202026-05-22%2009-34-54.png)
+
 ## Tools Used
 - Nmap
 - Metasploit Framework
