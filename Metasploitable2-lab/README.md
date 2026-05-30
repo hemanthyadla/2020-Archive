@@ -8,7 +8,7 @@ This lab was conducted in an isolated, legal envvironment on intentionally vulne
      Kali Linux 2018      Debian     Attacker
      Metasplotable 2      Ubuntu     Target
 
-https://github.com/hemanthyadla/2020-Archive/blob/31ee478426abe9c466b577dcdd7932eabf4ef56b/Metasploitable2-lab/Screenshots/Screenshot%20from%202026-05-21%2011-14-05.png
+![VirtualBox Interface](https://github.com/hemanthyadla/2020-Archive/blob/31ee478426abe9c466b577dcdd7932eabf4ef56b/Metasploitable2-lab/Screenshots/Screenshot%20from%202026-05-21%2011-14-05.png)
 
 ## Tools Used
 - Nmap
