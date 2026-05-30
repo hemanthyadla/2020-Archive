@@ -5,6 +5,7 @@ This lab was conducted in an isolated, legal envvironment on intentionally vulne
 
 ## Environment
    |   Machine      |    OS      |    Role     |
+   
    |Kali Linux 2018 |   Debian   |   Attacker  |
    
    |Metasploitable2 |   Ubuntu   |   Target    |
@@ -18,7 +19,7 @@ This lab was conducted in an isolated, legal envvironment on intentionally vulne
 - iptables
 
 ## Documented Ports
-## Port    Service        Severity    Method Used
+   Port    Service        Severity    Method Used
     21     vfstpd FTP     Critical    Metasploit
     22     SSH            High        Brute force
     23     Telnet         Critical    Default Credentials
@@ -43,6 +44,6 @@ This lab was conducted in an isolated, legal envvironment on intentionally vulne
     8180   Tomcat         Critical    Metasploit
 
 ## Remediation
-# Port    Service    Action Taken
-  21      FTP        Blocked via iptables
-  23      Telnet     Blocked via iptables
+### Port    Service       Action Taken
+     21      FTP        Blocked via iptables
+     23      Telnet     Blocked via iptables
