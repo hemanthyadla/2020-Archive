@@ -35,6 +35,7 @@ This lab was conducted in an isolated, legal envvironment on intentionally vulne
     80     HTTP           Critical    SQLi, XSS, CMDi
     111    RPC            High        Metasploit Scanner
     139    Samba          High        enum4linux
+    445    Samba          High        enum4linux
     512    rexec          Critical    Metasploit
     513    rlogin         Critical    Metasploit
     514    rsh            Critical    Metasploit
