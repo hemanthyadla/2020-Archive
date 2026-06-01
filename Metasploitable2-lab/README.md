@@ -15,6 +15,7 @@ network in VirtualBox.
 |------------------|-------------|----------------|----------|
 | Kali Linux 2018  | Debian      | 192.168.56.100 | Attacker |
 | Metasploitable 2 | Ubuntu      | 192.168.56.101 | Target   |
+
 ![VirtualBox Interface](https://github.com/hemanthyadla/2020-Archive/blob/31ee478426abe9c466b577dcdd7932eabf4ef56b/Metasploitable2-lab/Screenshots/Screenshot%20from%202026-05-21%2011-14-05.png)
 
 ![kali Linux](https://github.com/hemanthyadla/2020-Archive/blob/afb1f26aa5d747b4b863c0dbe2ff10395097dcb5/Metasploitable2-lab/Screenshots/Screenshot%20from%202026-05-21%2011-16-07.png)
