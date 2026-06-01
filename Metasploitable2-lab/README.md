@@ -94,6 +94,7 @@ network in VirtualBox.
 |------|---------|--------------|--------|
 | 21 | FTP | Blocked via iptables | Filtered |
 | 23 | Telnet | Blocked via iptables | Filtered |
+
 ![ports](https://github.com/hemanthyadla/2020-Archive/blob/6333d29bbd74ffe909ab5622a9dbf89e4d58e25d/Metasploitable2-lab/Screenshots/Screenshot%20from%202026-05-28%2012-12-07.png)
 ![filter](https://github.com/hemanthyadla/2020-Archive/blob/d34efface32498b735de1439c9f93afa342dd8f9/Metasploitable2-lab/Screenshots/Screenshot%20from%202026-05-28%2012-22-27.png)
 ## Key Learnings
